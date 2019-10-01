@@ -22,7 +22,7 @@ __published:	// Composants gérés par l'EDI
 private:	// Déclarations utilisateur
 	HANDLE com;
 	//OVERLAPPED over;
-	//langlace
+	//langlace  commit
 	std::vector<char> received;
 public:		// Déclarations utilisateur
 	__fastcall TForm1(TComponent* Owner);
